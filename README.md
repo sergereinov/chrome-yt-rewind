@@ -36,7 +36,7 @@ A Chrome browser extension that adds 10-second rewind/forward buttons to YouTube
 
 MIT License
 
-Copyright (c) 2023 DeepSeek
+Copyright (c) 2025 Serge Reinov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
