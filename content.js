@@ -25,11 +25,10 @@ function waitForPlayer() {
     const controlsContainer = document.createElement('div');
     controlsContainer.className = 'yt-rewind-controls';
     controlsContainer.style.display = 'flex';
-    controlsContainer.style.gap = '15px';
+    controlsContainer.style.gap = '10px';
     controlsContainer.style.position = 'absolute';
     controlsContainer.style.bottom = '70px';
-    controlsContainer.style.left = '50%';
-    controlsContainer.style.transform = 'translateX(-50%)';
+    controlsContainer.style.left = '20px';
     controlsContainer.style.zIndex = '9999';
     controlsContainer.style.transition = 'opacity 0.5s ease';
     controlsContainer.style.opacity = '0';
